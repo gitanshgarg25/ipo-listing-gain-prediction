@@ -53,7 +53,7 @@ ipo-listing-gain-prediction/
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve-2.png)
 
 ## Author
 Gitansh Garg
